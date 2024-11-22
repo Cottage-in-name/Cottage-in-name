@@ -1,4 +1,4 @@
-## Hi there 👋
+# about me
 
 <!--
 **Cottage-in-name/Cottage-in-name** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
